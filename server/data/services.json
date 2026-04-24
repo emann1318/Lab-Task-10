@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Professional Logo Design",
+    "description": "I will create a unique and memorable logo for your brand. Includes 3 concepts and unlimited revisions.",
+    "category": "Design",
+    "price": 50,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 2,
+    "title": "WordPress Website Setup",
+    "description": "Get your business online quickly with a custom WordPress installation and theme setup.",
+    "category": "Development",
+    "price": 150,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 3,
+    "title": "Social Media Marketing",
+    "description": "Boost your engagement and reach with expert social media management and ad campaigns.",
+    "category": "Marketing",
+    "price": 80,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 4,
+    "title": "Article Writing & Blogging",
+    "description": "High-quality, SEO-optimized articles for your blog or website. Any niche or topic.",
+    "category": "Writing",
+    "price": 30,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 5,
+    "title": "Video Editing for YouTube",
+    "description": "Professional video editing services. Cuts, transitions, music, and basic effects included.",
+    "category": "Video",
+    "price": 70,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": 6,
+    "title": "Web Engineering",
+    "description": "AHbdhabd",
+    "category": "Design",
+    "price": 32,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80&w=400"
+  }
+]
